@@ -30,8 +30,6 @@ migrate_working_dir/
 
 
 
-# Environment
-*.env
 
 # Credentials / Keys
 firebase_options.dart
