@@ -1,7 +1,26 @@
+# Flutter/Dart
 .dart_tool/
-
-
-
-
+.packages
+.pub-cache/
+build/
 .flutter-plugins
 .flutter-plugins-dependencies
+.generated/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# MacOS
+*.DS_Store
+
+# Firebase config (avoid pushing secrets)
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# Generated files
+lib/firebase_options.dart
+
+# Misc
+*.log
+*.lock
