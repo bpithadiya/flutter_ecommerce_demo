@@ -31,9 +31,3 @@ migrate_working_dir/
 
 
 
-# Credentials / Keys
-firebase_options.dart
-
-# OS
-*.DS_Store
-Thumbs.db
