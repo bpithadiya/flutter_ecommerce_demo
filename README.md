@@ -33,30 +33,37 @@ A modern Flutter e-commerce app built with Firebase — featuring authentication
 ---
 
 ## 🛠️ Setup Instructions
-```bash
-# 1️⃣ Clone the repository
+
+### 1️⃣ Clone the repository
 git clone https://github.com/yourname/flutter_ecommerce_demo.git
 
-# 2️⃣ Get dependencies
+### 2️⃣ Get dependencies
 flutter pub get
 
-# 3️⃣ Add Firebase config files
-# - android/app/google-services.json
-# - ios/Runner/GoogleService-Info.plist
+### 3️⃣ Add Firebase config files
+ - android/app/google-services.json
+ - ios/Runner/GoogleService-Info.plist
 
-# 4️⃣ Run the app
+### 4️⃣ Run the app
 flutter run
 
-# (A few resources to get you started if this is your first Flutter project:)
+## 📄 License
+This project is licensed under the MIT License — feel free to use, modify, or extend it for your own portfolio or learning.
 
-# ()
-# (- [Lab: Write your first Flutter app]&#40;https://docs.flutter.dev/get-started/codelab&#41;)
+👨‍💻 Developer Bhavik Pithadiya | Mobile Application Developer | Flutter Developer | 📧 bpithadiya8@gmail.com
 
-# (- [Cookbook: Useful Flutter samples]&#40;https://docs.flutter.dev/cookbook&#41;)
+---
 
-# ()
-# (For help getting started with Flutter development, view the)
+ (A few resources to get you started if this is your first Flutter project:)
 
-# ([online documentation]&#40;https://docs.flutter.dev/&#41;, which offers tutorials,)
+ ()
+ (- [Lab: Write your first Flutter app]&#40;https://docs.flutter.dev/get-started/codelab&#41;)
 
-# (samples, guidance on mobile development, and a full API reference.)
+ (- [Cookbook: Useful Flutter samples]&#40;https://docs.flutter.dev/cookbook&#41;)
+
+ ()
+ (For help getting started with Flutter development, view the)
+
+ ([online documentation]&#40;https://docs.flutter.dev/&#41;, which offers tutorials,)
+
+ (samples, guidance on mobile development, and a full API reference.)
